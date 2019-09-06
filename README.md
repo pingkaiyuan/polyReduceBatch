@@ -1,0 +1,2 @@
+# polyReduceBatch
+适用于Maya的一个可以批量减面的Python脚本
